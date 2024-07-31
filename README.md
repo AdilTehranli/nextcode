@@ -41,6 +41,7 @@ end Main;
 
 - Tunjay Akbarli - Initial work - tunjayakbarli@it-gss.com
 - Tural Ghuliev - Lead Architect - turalquliyev@it-gss.com
+- Adil Tehranli - Software Developer - adiltehranli@it-gss.com
 - Teymur Novruzov - Lead Architect - teymurnovruzov@it-gss.com
 - Mohammed Samy El-Melegy - Compiler Engineer - mohammedsamy@it-gss.com
 - Uzo Ochogu - Compiler Engineer - uzoochogu@it-gss.com
